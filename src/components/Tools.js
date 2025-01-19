@@ -29,22 +29,22 @@ const Tools = () => {
 
         <div className="floating-images">
           <div className="image-container" data-title="Goal Visualization">
-            <img src="/goals.jpg" alt="Goal Visualization" />
+            <img src="/public/goals.jpg" alt="Goal Visualization" />
           </div>
           <div className="image-container" data-title="Progress Tracking">
-            <img src="/progress.jpg" alt="Progress Tracking" />
+            <img src="/public/progress.jpg" alt="Progress Tracking" />
           </div>
           <div className="image-container" data-title="Positive Affirmations">
-            <img src="/positive.jpg" alt="Positive Affirmations" />
+            <img src="/public/positive.jpg" alt="Positive Affirmations" />
           </div>
           <div className="image-container" data-title="Accountability">
-            <img src="/accountable.jpg" alt="Accountability" />
+            <img src="/public/accountable.jpg" alt="Accountability" />
           </div>
           <div className="image-container" data-title="Motivational Quotes">
-            <img src="/quotes.jpg" alt="Motivational Quotes" />
+            <img src="/public/quotes.jpg" alt="Motivational Quotes" />
           </div>
           <div className="image-container" data-title="Best Books">
-            <img src="/books.jpg" alt="Best Books" />
+            <img src="/public/books.jpg" alt="Best Books" />
           </div>
         </div>
       </section>
